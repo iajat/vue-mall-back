@@ -20,9 +20,17 @@ English | [简体中文](./README-zh.md)
 
 ## Build Setup
 
+
+
+
+
+## 全是坑的项目，而且还未完成，半成品
+
+
 ```bash
 # clone the project
 git clone https://github.com/PanJiaChen/vue-admin-template.git
+
 
 # enter the project directory
 cd vue-admin-template
